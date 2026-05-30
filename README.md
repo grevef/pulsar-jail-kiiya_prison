@@ -30,6 +30,7 @@ Jail system for Pulsar Framework. Police can sentence players with a configurabl
 ## Dependencies
 
 - `pulsar-core` — framework core
+- `[kiiya_prison](https://kiiya.tebex.io/package/7393084)` - Bolingbroke Prison MLO
 
 ---
 
