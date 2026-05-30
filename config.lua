@@ -150,6 +150,17 @@ Config = {
 			maxZ = 47.41,
 		},
 	},
+	Payphones = {
+		coords = vector3(1829.67, 2595.943, 45.877),
+		length = 1.0,
+		width = 1.2,
+		options = {
+			heading = 0,
+			--debugPoly=true,
+			minZ = 45.61,
+			maxZ = 47.41,
+		},
+	},
 	VisitorLog = {
 		coords = vector3(1840.12, 2578.52, 46.01),
 		length = 0.8,
@@ -173,8 +184,8 @@ Config = {
 		},
 	},
 	Retreival = {
-		coords = vector3(1844.24, 2584.73, 46.01),
-		length = 0.8,
+		coords = vector3(1844.28, 2587.55, 46.0),
+		length = 1.0,
 		width = 1.2,
 		options = {
 			heading = 0,
@@ -232,17 +243,6 @@ Config = {
 				minZ = 45.47,
 				maxZ = 46.67,
 			},
-		},
-	},
-	Payphones = {
-		coords = vector3(1827.32, 2587.66, 46.01),
-		length = 4.4,
-		width = 0.4,
-		options = {
-			heading = 0,
-			--debugPoly=true,
-			minZ = 45.61,
-			maxZ = 47.41,
 		},
 	},
 }
